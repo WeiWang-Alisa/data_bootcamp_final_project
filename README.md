@@ -10,4 +10,6 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
+## Project Description
+
 This project studies how the investment in real estate evolve over time at a narrow geographic level within China. Since the 21st century, China had developed in jet speed. Regardless of the house pricing in the original first-tier cities, e.g. Beijing, Shanghai, Guangzhou, Shenzhen, less-developed cities like Chengdu, Hangzhou, Wuhan, Xi’an actually had the biggest price gain in the House price in recent years. Real estate investment had been pushed to the spotlight, and purchasing house property has been regarded as one of the biggest challenging problems for the younger generations.
